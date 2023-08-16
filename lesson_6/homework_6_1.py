@@ -38,3 +38,8 @@ def taxi_fare(distance):
 
 # examples of usage:
 # taxi_fare(10) #21.86
+
+# Convert a float variable c to integer. Save the expression to result_3 variable
+
+c = 5.04
+result_3 = None
