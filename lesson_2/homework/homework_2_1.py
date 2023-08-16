@@ -41,7 +41,7 @@ result_division_remainder = None
 
 
 # Rise m to the power n. Save the expression to the result_power variable
-
-m = 5
-n = 2
-result_power = None
+#
+# m = 5
+# n = 2
+# result_power = None
