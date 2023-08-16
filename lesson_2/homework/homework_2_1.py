@@ -35,9 +35,9 @@ result_division_floored = None
 
 # Calculate the remainder of k divided by l. Save expression to the result_division_remainder variable
 
-k = 10
-l = 15
-result_division_remainder = None
+# k = 10
+# l = 15
+# result_division_remainder = None
 
 
 # Rise m to the power n. Save the expression to the result_power variable
